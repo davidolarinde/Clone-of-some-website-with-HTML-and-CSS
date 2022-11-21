@@ -1,0 +1,43 @@
+.input-box {
+    padding: 18px;   
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+   border: 0;
+    border-bottom: 1px solid #ccc;
+    width: 30%;
+    text-align: center;
+    position: relative;
+    top: 5rem;
+
+
+    
+}
+.fgt {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 3rem;
+}
+form {
+    text-align: center;
+    background-color: white;
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 550px;
+    height: 500px;
+    
+}
+#header {
+    font-family:sans-serif;
+    text-align: center;
+    color: blue;
+}
+#btn-login {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    position: relative;
+    top: 5rem;
+}

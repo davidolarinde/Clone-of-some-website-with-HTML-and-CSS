@@ -1,0 +1,12 @@
+#video-desc {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 24px;
+    padding-bottom: 24px;  
+}
+
+body {
+    background-color: whitesmoke
+}
+.video {
+    text-align: center;
+}
