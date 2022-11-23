@@ -1,22 +1,7 @@
-.input-box {
-    padding: 18px;   
-    padding-bottom: 12px;
-    margin-bottom: 36px;
-   border: 0;
-    border-bottom: 1px solid #ccc;
-    width: 30%;
-    text-align: center;
-    position: relative;
-    top: 5rem;
 
 
     
-}
-.fgt {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    position: relative;
-    top: 3rem;
-}
+
 form {
     text-align: center;
     background-color: white;
@@ -24,20 +9,80 @@ form {
     border: 1px solid #ccc;
     border-radius: 8px;
     width: 550px;
-    height: 500px;
+    height: 400px;
+    background-color:whitesmoke;
     
 }
 #header {
-    font-family:sans-serif;
-    text-align: center;
-    color: blue;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: white;
+    background-color:darkblue;
+    font-size: 20px;
+    position: relative;
+    bottom: 1rem;
 }
-#btn-login {
-    background-color: blue;
+.label {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    position: relative;
+    left:0.9rem;
+    font-weight: bold;
+    bottom: 1rem;
+}
+
+.input-box {
+   
+    width: 460px;
+    border: 1px solid gray;
+    padding: 12px;
+   background-color:lightblue;
+   position: relative;
+left: -1rem;
+bottom: 1rem;
+
+}
+.btn {
+background-color:darkblue;
+border: none;
+color: white;
+padding: 10px;
+padding-left: 240px;
+padding-right: 230px;
+position: relative;
+left: 26rem;
+bottom: 12rem;
+cursor: pointer;
+
+}
+.or {
+    text-align: center;
+    position: relative;
+    bottom: 11rem;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.qyt {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    bottom: 11rem;
+    left:38rem;
+}
+
+
+#btn-new {
+    background-color:green;
+ border: none;
     color: white;
     padding: 10px;
-    border: none;
-    border-radius: 8px;
+    text-align: center;
     position: relative;
-    top: 5rem;
+    bottom: 11rem;
+    left: 38rem;
+    cursor: pointer;
 }
+
+
+
+

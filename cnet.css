@@ -1,0 +1,168 @@
+#header {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;
+    font-size: 90px;
+    font-weight: bolder;
+    
+   
+}
+.para {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:red;
+    
+    text-align: center;
+}
+.deals {
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+ 
+}
+.list {
+    display: inline;
+    color: gray;
+   
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 4orem;
+}
+#list-wrap {
+    text-align: center;
+    position: relative;
+    left: 5rem;
+}
+.deal {
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    position: relative;
+    left: 24rem;
+    bottom: 14.5rem;
+    font-size: 20px;
+    margin: 24px;
+}
+
+#desc-wrapper {
+    padding-left: 14px;
+    padding-right: 14px;
+}
+.desc {
+    font-size: 10px;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+    position: relative;
+    left: 25rem;
+    bottom: 15rem;
+}
+.line {
+    width: 300px;
+    
+    position: relative;
+    bottom: 0.8rem;
+    left: -32rem;
+}
+.trend-list {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    bottom: 14rem;
+    left: -35rem;
+}
+header {
+  position: relative;
+  left: 10rem;
+  width: 100px;
+}
+
+#trend {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.adv {
+    font-family: 'Times New Roman', Times, serif ;
+    color: gray;
+    position: relative;
+    bottom: 0.5rem;
+}
+.dev {
+    font-family: serif;
+    color: black;
+    position: relative;
+    bottom: 1rem;
+}
+#hero {
+    position: relative;
+    bottom: 15rem;
+}
+#wrap {
+    position: relative;
+    bottom: 23.8rem;
+    left: 25rem;
+}
+
+.linke {
+    width: 200px;
+    position: relative;
+    left: 14rem;
+    bottom: 2.1rem;
+}
+.lins {
+    width: 200px;
+    position: relative;
+    left: -14rem;
+    bottom: 1.7rem;
+}
+.text {
+    font-family: 'Times New Roman', Times, serif ;
+    color: gray;
+}
+.put {
+    font-family: serif;
+    color: black;
+}
+.score {
+    width: 360px;
+    position: relative;
+    bottom: 0.1rem;
+    left: -32rem;
+}
+#wrapt {
+    position: relative;
+    bottom: 31rem;
+    left: 60rem;
+}
+.scored {
+    width: 360px;
+    position: relative;
+    bottom: 0.1rem;
+    left: -32rem;
+}
+.texty {
+    font-family: 'Times New Roman', Times, serif ;
+    color: gray;
+}
+.puty {
+    font-family: serif;
+    color: black;
+}
+#loat {
+    position: relative;
+    bottom: 29rem;
+    left:-0.3rem;
+}
+.coat {
+    width: 300px;
+    position: relative;
+    bottom: 0.1rem;
+    left: -32rem;
+}
+.bty {
+    font-family: 'Times New Roman', Times, serif ;
+    color: gray;
+}
+.qty {
+    font-family: serif;
+    color: black;   
+}

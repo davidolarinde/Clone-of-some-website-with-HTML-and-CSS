@@ -1,12 +1,16 @@
-#video-desc {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-top: 24px;
-    padding-bottom: 24px;  
+.para-text {
+    font-family:'Times New Roman', Times, serif;
+    position: relative;
+    left: 20rem;
+    bottom: 10rem;
 }
+.input-box {
+    padding: 16px;
 
-body {
-    background-color: whitesmoke
-}
-.video {
-    text-align: center;
+position: relative;
+left: 15rem;
+width: 500px;
+margin-left: auto;
+margin-right: auto;
+border: 1px thin black;
 }
