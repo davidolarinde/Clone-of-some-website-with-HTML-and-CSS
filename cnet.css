@@ -2,10 +2,31 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: red;
     text-align: center;
-    font-size: 90px;
+    font-size: 150px;
     font-weight: bolder;
+    position: relative ;
+    bottom: -6rem;
     
    
+}
+#bday {
+    position: relative;
+    bottom: 37rem;
+    left: 28rem;   
+}
+.bpara {
+    font-family: 'Times New Roman', Times, serif ;
+    color: gray;
+}
+.bpa {
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.bline {
+    width: 300px;
+    position: relative;
+    left: -35rem;
+    bottom: 0.1rem;
 }
 .para {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -163,6 +184,24 @@ header {
     color: gray;
 }
 .qty {
+    font-family: serif;
+    color: black;   
+}
+#blday {
+    position: relative;
+    bottom: 45.5rem;
+    left:59rem;
+}
+.dline {
+    width: 300px;
+    position: relative;
+    left: -33rem;
+}
+.dpara {
+    font-family: 'Times New Roman', Times, serif ;
+    color: gray;
+}
+.parag {
     font-family: serif;
     color: black;   
 }
