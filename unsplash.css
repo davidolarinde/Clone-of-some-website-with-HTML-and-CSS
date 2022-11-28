@@ -12,7 +12,6 @@ header {
     background-image: url(Wallpaper\ 3.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-background-attachment: fixed;
 }
 #header-text {
     color: white;
@@ -51,11 +50,33 @@ left: 4rem;
 }
 
 .para-image {width: 50%;
-height: 1000px;
+height: 500pxpx;
 
 }
+.image-wall {
+    width: 1000px;
+    height: 500px;
+    position: relative;
+    bottom: 28.45rem;
+    left: 30rem;
+}
 
-.hero-image {
- width: 50%;
-    height: 1000px;
+.image {
+    height: 500px;
+}
+section {
+    display: inline-block;
+    width: 70%;
+    margin-right: 24px;
+}
+
+aside {
+    display: inline-block ;
+    width: 25%;
+}
+.place-wrapper {
+ width: 100%;   
+}
+.place-wrapper {
+    
 }
