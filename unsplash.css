@@ -62,21 +62,82 @@ height: 500pxpx;
 }
 
 .image {
-    height: 500px;
+    height: 400px;
+    width: 1000px;
 }
-section {
-    display: inline-block;
-    width: 70%;
-    margin-right: 24px;
+.wallpaper {
+    height: 300px;
+    width:478.95px;
+    position: relative;
+    bottom:25rem;
+    left: 63rem;
+  
+    background-color: white;
+    vertical-align: top;
+    box-sizing: border-box;
 }
-
-aside {
-    display: inline-block ;
-    width: 25%;
+.image-wall {
+    height: 400px;
+    width: 1000px;
+    position: relative;
+    bottom: 16rem;
+    left:0.5rem;
+  
 }
-.place-wrapper {
- width: 100%;   
+.wall-image {
+    height: 300px;
+    width:478.95px;
+    position: relative;
+    bottom:48rem;
+    left: 63rem;
+  
+    background-color: white;
+    vertical-align: top;
+    box-sizing: border-box;
 }
-.place-wrapper {
-    
+.wall-desc {
+    height: 400px;
+    width: 1000px;
+    position: relative;
+    bottom: 33rem;
+    left:0.5rem;   
+}
+.beach {
+    height: 585px;
+    width:478.97px;
+    position: relative;
+    bottom:70rem;
+    left: 63rem;
+  
+    background-color: white;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+.cave {
+    height: 2000px;
+    width: 2500px;
+    position: relative;
+    bottom: 69.78rem;
+}
+.garden {
+    height: 2000px;
+    width:2500px;
+    position: relative;
+    bottom: 69rem;
+}
+.laptop  {
+    height: 1000px;
+    width: 1500px;
+}
+.file {
+    height: 2000px;
+    width: 2500px
+}
+.Hamburger {
+    height: 1000px;
+    width: 1500px;     
+}
+.cmd {
+    height: 2000px;
+    width: 2500px;
 }
