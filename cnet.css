@@ -335,3 +335,53 @@ header {
     position: relative;
 bottom: 92rem;
 }
+.hp-deals {
+    position: relative;
+    left: 50rem;
+    bottom:19rem;
+    
+}
+.hp-para {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.hp-line {
+    width: 200px;
+    position: relative;
+    left:-34rem;
+    bottom: -1rem;
+}
+.spotify {
+    position: relative;
+    left: 70rem;
+    bottom:25.5rem;
+}
+.spot-para {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.spot-line {
+    width: 200px;
+    position: relative;
+    left: -36rem;
+}
+.cyber {
+    position: relative;
+    left:20rem;
+    bottom:20rem; 
+}
+
+.cyber-para {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cyber-line {
+    width: 200px;
+    position: relative;
+    left: -36rem;
+}
+.apple {
+    position: relative;
+    left: 35rem;
+    bottom:12.6rem;
+}
