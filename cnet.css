@@ -299,3 +299,39 @@ header {
     bottom: 120rem;
     left: 60rem;
 }
+.trending {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:40px;
+}
+.trend-div {
+    position: relative;
+    left: 20rem;
+    bottom: 5.5rem;
+}
+.trend-para {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.trend-line {
+    width:200px;
+    position: relative;
+    left: -36rem;
+}
+.SAN {
+    position: relative;
+    left: 35rem;
+    bottom:12.6rem;
+}
+.active-para {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.active-line {
+    width: 200px;
+    position: relative;
+    left:-35rem;
+}
+.all-class {
+    position: relative;
+bottom: 92rem;
+}
