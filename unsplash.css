@@ -113,31 +113,31 @@ height: 500pxpx;
     vertical-align: top;
     box-sizing: border-box;
 }
-.cave {
-    height: 2000px;
-    width: 2500px;
-    position: relative;
-    bottom: 69.78rem;
-}
-.garden {
-    height: 2000px;
-    width:2500px;
+
+
+.woman {
+    width:500px;
     position: relative;
     bottom: 69rem;
 }
-.laptop  {
-    height: 1000px;
-    width: 1500px;
+
+.food-wrapper {
+    position: relative;
+    bottom: 90.5rem;
+    left: 32rem;
 }
-.file {
-    height: 2000px;
-    width: 2500px
+.room-wrapper {
+    position: relative;
+bottom: 116.5rem;
+left: 58rem;
 }
-.Hamburger {
-    height: 1000px;
-    width: 1500px;     
+.science {
+    position: relative;
+    bottom:  120rem;
+  
 }
-.cmd {
-    height: 2000px;
-    width: 2500px;
+.wrapper {
+position: relative;
+bottom: 148rem;
+left: 33rem;
 }
