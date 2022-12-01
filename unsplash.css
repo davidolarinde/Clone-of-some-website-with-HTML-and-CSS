@@ -141,3 +141,7 @@ position: relative;
 bottom: 148rem;
 left: 33rem;
 }
+
+body {
+ overflow-x: hidden;
+}
