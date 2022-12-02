@@ -143,7 +143,7 @@ left: 33rem;
 }
 
 body {
- overflow-x: hidden;
+ overflow-x:auto;
  
 }
 .garden {
@@ -164,4 +164,22 @@ body {
 .baki-wrapper {
     position: relative;
     bottom: 218rem;
+}
+
+.sunset {
+    position: relative;
+    bottom: 234rem;
+    left: 34rem;
+}
+
+.map {
+    position: relative;
+    bottom: 250rem;
+    left: 51rem;
+}
+
+.fancy {
+    position: relative;
+    bottom: 266rem;
+    left: 69rem;
 }
