@@ -108,7 +108,7 @@ height: 500pxpx;
     position: relative;
     bottom:70rem;
     left: 63rem;
-  
+  overflow: auto;
     background-color: white;
     vertical-align: top;
     box-sizing: border-box;
@@ -144,4 +144,24 @@ left: 33rem;
 
 body {
  overflow-x: hidden;
+ 
+}
+.garden {
+    position: relative;
+    bottom: 170rem;
+}
+.cave {
+    position: relative;
+    bottom: 177rem;
+    left: 33rem;
+   
+}
+
+.praying-hands {
+    position: relative;
+    bottom:220rem;
+}
+.baki-wrapper {
+    position: relative;
+    bottom: 218rem;
 }
