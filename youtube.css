@@ -1,8 +1,6 @@
-.para-text {
+.Para-text {
     font-family:'Times New Roman', Times, serif;
-    position: relative;
-    left: 20rem;
-    bottom: 10rem;
+  font-size:14px;
 }
 .input-box {
     padding: 16px;
@@ -15,3 +13,7 @@ margin-right: auto;
 border: 1px thin black;
 }
 
+.hero-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+} 
