@@ -1,185 +1,139 @@
-#span{
+.contain ul {
+    display: flex;
+  font-size: 20px;
+}
+
+.contain ul li {
+    font-size: 20px;
     color: gray;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-header {
-
-    
-    padding: 32%;
-    height: 700px;
-    padding-left: 2%;
-    padding-right: 2%;
-    background-image: url(Wallpaper\ 3.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-}
-#header-text {
-    color: white;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5px ;
+    text-align: center;
+    cursor: pointer;
    position: relative;
-   bottom: 20rem ;
-   font-size: 50px;
-   left: 4rem;
-   
-}
-#para-text {
-    color: white;
-    font-family:'Times New Roman', Times, serif;
-   position: relative;
-   bottom: 21rem;
-   font-size: 2opx; 
-   left: 4rem;
+   bottom: -1rem;
 }
 
+.contain ul li:hover {
+    color: red;
+}
+.desc {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    position: relative
+    ;
+    bottom: -50em;
+}
 .input-box {
     position: relative;
-    background-color: white;
-    bottom: 78rem;
-   width: 500px;
-   padding: 16px;
-   border: 1px thin bisque;
-left: 4rem;
+    bottom: 
+    15rem;
+    left: 5rem;
 }
-#para-sub {
-    color: white;
-    font-family:'Times New Roman', Times, serif;
-   position: relative;
-   bottom: 15rem;
-   font-size: 2opx; 
-   left: 2.5rem;
+.search-bar {
+    padding: 10px;
+    width: 500px;
 }
-
-.para-image {width: 50%;
-height: 500pxpx;
-
+.para-text {
+    font-family: 'Times New Roman', Times, serif;
+font-size: 35px;
+position: relative;
+bottom: 27rem;
+color: white;
+padding-left: 3em;
 }
-.image-wall {
-    width: 1000px;
+.text {
+    font-family: 'Times New Roman', Times, serif;
+font-size: 17px;
+position: relative;
+bottom: 28rem;
+color: white;
+padding-left: 6em;
+}
+.image {
+    width:30%;
+    position: relative;
+bottom: 5rem;
+height: 500px;
+}
+.images {
     height: 500px;
     position: relative;
-    bottom: 28.45rem;
-    left: 30rem;
+    bottom:5em;
+    width: 31.5%;
+    left: 6.4em;
+}
+.wall {
+    width:30%;
+    position: relative;
+    bottom: 5em;
+    height: 500px;
+    left: 4em;
 }
 
-.image {
-    height: 400px;
-    width: 1000px;
+.Hero-Images {
+    position: relative;
+    bottom:7rem;
+}
+.food {
+    position: relative;
+    bottom: 8em;
+    height: 500px;
+    width: 30%
 }
 .wallpaper {
-    height: 300px;
-    width:478.95px;
+    width: 30%;
+    height: 500px;
     position: relative;
-    bottom:25rem;
-    left: 63rem;
-  
-    background-color: white;
-    vertical-align: top;
-    box-sizing: border-box;
+    bottom: 8.1rem;
+    left: 3.5rem;
 }
-.image-wall {
-    height: 400px;
-    width: 1000px;
+.room {
+    width: 30%;
     position: relative;
-    bottom: 16rem;
-    left:0.5rem;
-  
-}
-.wall-image {
-    height: 300px;
-    width:478.95px;
-    position: relative;
-    bottom:48rem;
-    left: 63rem;
-  
-    background-color: white;
-    vertical-align: top;
-    box-sizing: border-box;
-}
-.wall-desc {
-    height: 400px;
-    width: 1000px;
-    position: relative;
-    bottom: 33rem;
-    left:0.5rem;   
-}
-.beach {
-    height: 585px;
-    width:478.97px;
-    position: relative;
-    bottom:70rem;
-    left: 63rem;
-  overflow: auto;
-    background-color: white;
-    vertical-align: top;
-    box-sizing: border-box;
-}
+    left: 57em;
+    bottom: 39.8em;
+    height: 250px;
 
-
-.woman {
-    width:500px;
+}
+.teen {
+    width: 30%;
+    height: 220px;
     position: relative;
-    bottom: 69rem;
+    left: 32em;
+    bottom: 24.2em;
 }
-
-.food-wrapper {
+.file {
+    width: 30%;
+    height: 500px;
     position: relative;
-    bottom: 90.5rem;
-    left: 32rem;
+    bottom: 22em;
 }
-.room-wrapper {
+.beauty {
+    width: 30%;
+    height: 250px;
     position: relative;
-bottom: 116.5rem;
-left: 58rem;
+    bottom: 53.67em;
+    left: 28.6em
 }
-.science {
+.Beach {
+    width: 30%;
+    height: 220px;
     position: relative;
-    bottom:  120rem;
-  
+    bottom: 38em;
+    left: 3.5em;
 }
-.wrapper {
-position: relative;
-bottom: 148rem;
-left: 33rem;
-}
-
-body {
- overflow-x:auto;
- 
-}
-.garden {
+.road {
+    width:30%;
+    height: 250px;
     position: relative;
-    bottom: 170rem;
+    bottom: 69.8em;
+    left: 57.5em;
 }
-.cave {
+.space {
+    width: 30%;
+    height: 220px;
     position: relative;
-    bottom: 177rem;
-    left: 33rem;
-   
-}
-
-.praying-hands {
-    position: relative;
-    bottom:220rem;
-}
-.baki-wrapper {
-    position: relative;
-    bottom: 218rem;
-}
-
-.sunset {
-    position: relative;
-    bottom: 234rem;
-    left: 34rem;
-}
-
-.map {
-    position: relative;
-    bottom: 250rem;
-    left: 51rem;
-}
-
-.fancy {
-    position: relative;
-    bottom: 266rem;
-    left: 69rem;
+    bottom: 54.2em;
+    left: 32.5em;
 }

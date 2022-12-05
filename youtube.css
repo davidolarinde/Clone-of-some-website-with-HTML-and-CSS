@@ -17,3 +17,13 @@ border: 1px thin black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 14px;
 } 
+.Video-wrapper {
+    position: relative;
+    bottom: 25.6rem;
+    left: 20em;
+}
+.piano-wrapper {
+    position: relative;
+    bottom:49.5rem;
+    left:40em;
+}
