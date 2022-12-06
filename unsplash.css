@@ -1,3 +1,6 @@
+* {
+    cursor: pointer;
+}
 .contain ul {
     display: flex;
   font-size: 20px;
@@ -136,4 +139,110 @@ height: 500px;
     position: relative;
     bottom: 54.2em;
     left: 32.5em;
+}
+
+.smoke {
+    position: relative;
+    bottom: 53em;
+    width: 30%;
+}
+.blackhole {
+    position: relative;
+    bottom: 37em;
+    left: -25.4em;
+    width: 30%;
+}
+.door {
+    position: relative;
+    bottom: 70em;
+    left: 28.7em;
+    width: 30%;
+    height: 520px;
+}
+.slik {
+    position: relative;
+    bottom: 102.8em;
+    left: 58em;
+    width: 30%;
+    height: 300px;
+}
+.snowtree {
+ position: relative;
+ bottom: 89em;  
+ left:32.7em; 
+ width: 30%;
+ height: 200px;
+}
+.burger {
+    width: 30%;
+    position: relative;
+    bottom: 86em;
+    height: 200px;
+}
+.model {
+    width: 30%;
+    position: relative;
+    bottom: 72em;
+    left: -25.3em;
+    height: 200px;
+}
+.vine {
+    width: 30%;
+    height: 200px;
+    position: relative;
+    bottom: 99em;
+    left: 28.7em;
+}
+.sandfloor {
+    position: relative;
+    bottom: 85em;
+    height: 200px;
+    width: 30%;
+    left: 3.5em;
+}
+.baki {
+    position: relative;
+    bottom: 112em;
+    width: 30%;
+    height:425px;
+    left: 58em;
+}
+.cave {
+    width: 30%;
+    height: 400px;
+    position: relative;
+    bottom: 110em;
+}
+.woman {
+    width:30%;
+  position: relative;
+  bottom: 83em;
+  left: -25em;
+    height: 400px
+}
+.street {
+    width: 30%;
+    height: 820px;
+    position: relative;
+    bottom: 135em;
+    left: 28.6em;
+}
+.desk {
+    width: 30%;
+    position: relative;
+    bottom: 187em;
+    left: 58em;
+}
+.dev {
+    width: 30%;
+    position: relative;
+    bottom: 168em;
+    left: 32.7em;
+}
+.unsplash {
+    width: 30%;
+    position: relative;
+bottom: 152em;
+height: 200px;
+left: 7.6em;
 }

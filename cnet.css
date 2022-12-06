@@ -9,25 +9,7 @@
     
    
 }
-#bday {
-    position: relative;
-    bottom: 37rem;
-    left: 28rem;   
-}
-.bpara {
-    font-family: 'Times New Roman', Times, serif ;
-    color: gray;
-}
-.bpa {
-    color: black;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-}
-.bline {
-    width: 300px;
-    position: relative;
-    left: -35rem;
-    bottom: 0.1rem;
-}
+
 .para {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color:red;
@@ -52,62 +34,15 @@
     position: relative;
     left: 5rem;
 }
-.deal {
-    color: black;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
-    position: relative;
-    left: 24rem;
-    bottom: 14.5rem;
-    font-size: 20px;
-    margin: 24px;
-}
-.line {
-    width: 300px;
-    
-    position: relative;
-    bottom: 0.8rem;
-    left: -32rem;
-}
-.trend-list {
-    font-family:'Times New Roman', Times, serif;
-    text-align: center;
-    font-size: 40px;
-    position: relative;
-    bottom: 12.5rem;
-    left: -35rem;
-}
+
+
 header {
   position: relative;
   left: 10rem;
   width: 100px;
 }
 
-#trend {
-    padding-left: 10px;
-    padding-right: 10px;
-}
-.adv {
-    font-family: 'Times New Roman', Times, serif ;
-    color: gray;
-    position: relative;
-    bottom: 0.5rem;
-}
-.dev {
-    font-family: serif;
-    color: black;
-    position: relative;
-    bottom: 1rem;
-}
-#hero {
-    position: relative;
-    bottom: 15rem;
-}
-#wrap {
-    position: relative;
-    bottom: 23.8rem;
-    left: 25rem;
-}
+
 
 .linke {
     width: 200px;
@@ -121,267 +56,118 @@ header {
     left: -14rem;
     bottom: 1.7rem;
 }
-.text {
-    font-family: 'Times New Roman', Times, serif ;
-    color: gray;
-}
-.put {
-    font-family: serif;
-    color: black;
-}
-.score {
-    width: 360px;
-    position: relative;
-    bottom: 0.1rem;
-    left: -32rem;
-}
-#wrapt {
-    position: relative;
-    bottom: 31rem;
-    left: 60rem;
-}
-.scored {
-    width: 360px;
-    position: relative;
-    bottom: 0.1rem;
-    left: -32rem;
-}
-.texty {
-    font-family: 'Times New Roman', Times, serif ;
-    color: gray;
-}
-.puty {
-    font-family: serif;
-    color: black;
-}
-#loat {
-    position: relative;
-    bottom: 29rem;
-    left:-0.3rem;
-}
-.coat {
-    width: 300px;
-    position: relative;
-    bottom: 0.1rem;
-    left: -32rem;
-}
-.bty {
-    font-family: 'Times New Roman', Times, serif ;
-    color: gray;
-}
-.qty {
-    font-family: serif;
-    color: black;   
-}
-#blday {
-    position: relative;
-    bottom: 45.5rem;
-    left:59rem;
-}
-.dline {
-    width: 300px;
-    position: relative;
-    left: -33rem;
-}
-.dpara {
-    font-family: 'Times New Roman', Times, serif ;
-    color: gray;
-}
-.parag {
-    font-family: serif;
-    color: black;   
+.content-wrap {
+    font-family: 'Times New Roman', Times, serif 
+    ;
+    font-size: 50px;
 }
 
-.image {
-    width: 500px;
-    height: 350px;
+.twitter {
     position: relative;
-    bottom: 45rem;
-    border-radius: 8px;
+    bottom: 5em;
+    padding-left: 20em;
 }
-#notes {
-    position: relative;
-    left: 32rem;
-    bottom: 64rem;
-}
-.naira {
-    font-family:'Times New Roman', Times, serif;
-    color: black;
-    font-size: 30px;
-}
-.wristwatch{
-    width: 1000px;
-    height: 950px;
-    position: relative;
-    bottom: 55rem;
-    border-radius: 8px;
-}
-#watch {
-    position: relative;
-    left: 65rem;
-    bottom: 100rem;   
-}
-.wrist {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
-}
-#smart {
-    position: relative;
-    left:1.5rem;
-    bottom: 65rem;   
-}
-.bbd {
-    width: 360px;
-    position: relative;
-    bottom: 0.1rem;
-    left: -32rem;
-}
-.avail {
-    font-family: 'Times New Roman', Times, serif ;
-    color: gray;
-}
-.bbf {
-    font-family:'Times New Roman', Times, serif;
-    color: black; 
-}
-#bfd {
-    position: relative;
-    left:25rem;
-    bottom: 73rem;
-}
-.jline {
-    width: 360px;
-    position: relative;
-    bottom: 0.1rem;
-    left: -32rem; 
-}
-.jpara {
-    font-family: 'Times New Roman', Times, serif ;
-    color: gray;
-}
-.jumia {
-    font-family:'Times New Roman', Times, serif;
-    color: black; 
-}
-#adj {
-    position: relative;
-    left:48rem;
-    bottom: 81rem;   
-}
-.ads {
-    width: 360px;
-    position: relative;
-    bottom: 0.1rem;
-    left: -32rem; 
-}
-.asj {
-    font-family: 'Times New Roman', Times, serif ;
-    color: gray; 
-}
-.addidas {
-    font-family:'Times New Roman', Times, serif;
-    color: black; 
-}
-.mouse {
-    width: 900px;
-    height: 850px;
-    position: relative;
-    bottom: 80rem;
-    border-radius: 8px;   
-}
-.mouse-deal {
-   
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 40px;
-}
-#mouse-wrapper {
-    position: relative;
-    bottom: 120rem;
-    left: 60rem;
-}
-.trending {
-    font-family: 'Times New Roman', Times, serif;
-    font-size:40px;
-}
-.trend-div {
-    position: relative;
-    left: 20rem;
-    bottom: 5.5rem;
-}
-.trend-para {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 15px;
-}
-.trend-line {
-    width:200px;
-    position: relative;
-    left: -36rem;
-}
-.SAN {
-    position: relative;
-    left: 35rem;
-    bottom:12.6rem;
-}
-.active-para {
-    font-size: 15px;
+.twit-para {
     font-family: 'Times New Roman', Times, serif;
 }
-.active-line {
-    width: 200px;
+.twit-line {
+    width: 23%;
     position: relative;
-    left:-35rem;
+    left: -25em;
 }
-.all-class {
+.meteor {
     position: relative;
-bottom: 92rem;
+    bottom: 12.5em;
+   padding-left: 37em;
 }
-.hp-deals {
-    position: relative;
-    left: 50rem;
-    bottom:19rem;
-    
-}
-.hp-para {
+.meteor-para {
     font-family: 'Times New Roman', Times, serif;
 
 }
-.hp-line {
-    width: 200px;
+.meteor-line {
+    width: 24%;
     position: relative;
-    left:-34rem;
-    bottom: -1rem;
+left: -16em
 }
-.spotify {
+.HP-wrapper {
     position: relative;
-    left: 70rem;
-    bottom:25.5rem;
+    bottom: 20em;
+   padding-left:50em;
+}
+.HP-para {
+    font-family: 'Times New Roman', Times, serif;
+}
+.Hline {
+    width: 40%;
+    position: relative;
+    left: -9.6em;
+}
+.spotify-wrapper {
+    position: relative;
+    bottom: 27.6em;
+    padding-left: 65em;
 }
 .spot-para {
     font-family: 'Times New Roman', Times, serif;
-
 }
 .spot-line {
-    width: 200px;
+    width: 100%;
     position: relative;
-    left: -36rem;
-}
-.cyber {
-    position: relative;
-    left:20rem;
-    bottom:20rem; 
+    left: -2em;
 }
 
+.sonos-wrapper {
+    position: relative;
+    bottom: 25em;
+    padding-left: 20em;
+}
+.sonos-para {
+    font-family: 'Times New Roman', Times, serif
+}
+.sonos-line {
+    width: 25%;
+    position: relative
+    ;
+    left: -25em;
+}
+.cyber-wrapper {
+    position: relative;
+    bottom: 33em;
+    margin-left: 38em;
+} 
 .cyber-para {
     font-family: 'Times New Roman', Times, serif;
 }
-
 .cyber-line {
-    width: 200px;
+    width: 30%;
     position: relative;
-    left: -36rem;
+    left: -15em
 }
-.apple {
+.mon-wrapper {
     position: relative;
-    left: 35rem;
-    bottom:12.6rem;
+    bottom: 41em;
+    padding-left: 52em;
+}
+.mon-para {
+    font-family: 'Times New Roman', Times, serif;
+}
+.mon-line {
+    width:40%;
+position: relative;
+left: -8em
+}
+.super-wrapper {
+    position: relative;
+    bottom: 48.6em;
+    padding-left: 65em;
+}
+.super-para {
+    font-family: 'Times New Roman', Times, serif;
+}
+.super-line {
+    width: 22%
+}
+.last-line {
+    position: relative;
+    bottom: 46em;
 }
