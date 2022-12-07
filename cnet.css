@@ -171,3 +171,27 @@ left: -8em
     position: relative;
     bottom: 46em;
 }
+.latest {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 15em;
+    font-size: 50px;
+}
+.target {
+    position: relative;
+bottom: 50em;
+padding-left: 20em;
+}
+.target-head {
+    font-family:'Times New Roman', Times, serif ;
+    color: gray;
+    font-size: small;
+}
+.target-para {
+    font-family: 'Times New Roman', Times, serif;
+}
+.target-line {
+    width: 200px;
+    position: relative;
+    left: -24em;
+}
