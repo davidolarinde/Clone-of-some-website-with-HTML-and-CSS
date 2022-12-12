@@ -64,7 +64,7 @@ height: 500px;
     position: relative;
     bottom:5em;
     width: 31.5%;
-    left: 6.4em;
+    left: 6.7em;
 }
 .wall {
     width:30%;
@@ -88,14 +88,14 @@ height: 500px;
     width: 30%;
     height: 500px;
     position: relative;
-    bottom: 8.1rem;
-    left: 3.5rem;
+    bottom: 9rem;
+    left: 4.8rem;
 }
 .room {
-    width: 30%;
+    width: 31%;
     position: relative;
-    left: 57em;
-    bottom: 39.8em;
+    left: 55em;
+    bottom: 39em;
     height: 250px;
 
 }
@@ -103,8 +103,8 @@ height: 500px;
     width: 30%;
     height: 220px;
     position: relative;
-    left: 32em;
-    bottom: 24.2em;
+    left: 31em;
+    bottom: 23.6em;
 }
 .file {
     width: 30%;
@@ -116,133 +116,133 @@ height: 500px;
     width: 30%;
     height: 250px;
     position: relative;
-    bottom: 53.67em;
+    bottom: 52em;
     left: 28.6em
 }
 .Beach {
     width: 30%;
     height: 220px;
     position: relative;
-    bottom: 38em;
-    left: 3.5em;
+    bottom: 37.7em;
+    left: 4.69em;
 }
 .road {
     width:30%;
     height: 250px;
     position: relative;
-    bottom: 69.8em;
-    left: 57.5em;
+    bottom: 66em;
+    left: 56em;
 }
 .space {
     width: 30%;
     height: 220px;
     position: relative;
-    bottom: 54.2em;
+    bottom: 51.5em;
     left: 32.5em;
 }
 
 .smoke {
     position: relative;
-    bottom: 53em;
+    bottom: 50em;
     width: 30%;
 }
 .blackhole {
     position: relative;
-    bottom: 37em;
-    left: -25.4em;
+    bottom: 36em;
+    left: -24em;
     width: 30%;
 }
 .door {
     position: relative;
-    bottom: 70em;
+    bottom: 68em;
     left: 28.7em;
     width: 30%;
     height: 520px;
 }
 .slik {
     position: relative;
-    bottom: 102.8em;
-    left: 58em;
+    bottom: 97em;
+    left: 56em;
     width: 30%;
     height: 300px;
 }
 .snowtree {
  position: relative;
- bottom: 89em;  
- left:32.7em; 
+ bottom: 84em;  
+ left:32.5em; 
  width: 30%;
  height: 200px;
 }
 .burger {
     width: 30%;
     position: relative;
-    bottom: 86em;
+    bottom: 84em;
     height: 200px;
 }
 .model {
     width: 30%;
     position: relative;
     bottom: 72em;
-    left: -25.3em;
+    left: -24em;
     height: 200px;
 }
 .vine {
     width: 30%;
     height: 200px;
     position: relative;
-    bottom: 99em;
+    bottom: 97em;
     left: 28.7em;
 }
 .sandfloor {
     position: relative;
-    bottom: 85em;
+    bottom: 84.1em;
     height: 200px;
     width: 30%;
-    left: 3.5em;
+    left: 4.8em;
 }
 .baki {
     position: relative;
-    bottom: 112em;
+    bottom: 107em;
     width: 30%;
     height:425px;
-    left: 58em;
+    left: 56.5em;
 }
 .cave {
     width: 30%;
     height: 400px;
     position: relative;
-    bottom: 110em;
+    bottom: 108em;
 }
 .woman {
     width:30%;
   position: relative;
   bottom: 83em;
-  left: -25em;
+  left: -24em;
     height: 400px
 }
 .street {
     width: 30%;
-    height: 820px;
+    height: 810px;
     position: relative;
-    bottom: 135em;
+    bottom: 131.5em;
     left: 28.6em;
 }
 .desk {
     width: 30%;
     position: relative;
-    bottom: 187em;
-    left: 58em;
+    bottom: 178em;
+    left: 56.5em;
 }
 .dev {
     width: 30%;
     position: relative;
-    bottom: 168em;
+    bottom: 160em;
     left: 32.7em;
 }
 .unsplash {
     width: 30%;
     position: relative;
-bottom: 152em;
+bottom: 147.4em;
 height: 200px;
-left: 7.6em;
+left: 9em;
 }

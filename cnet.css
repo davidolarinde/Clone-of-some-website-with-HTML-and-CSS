@@ -195,3 +195,129 @@ padding-left: 20em;
     position: relative;
     left: -24em;
 }
+.sound-wrapper {
+    position: relative;
+    bottom: 60em;
+    padding-left: 38em;
+}
+.sound-head {
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+.sound-para {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.sound-line {
+    width: 30%;
+    position: relative;
+    left: -15em;
+}
+.hulu-wrapper {
+    position: relative;
+    bottom: 70em;
+    padding-left: 53em;
+}
+.hulu-head {
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+.hulu-para {
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+.hulu-line {
+    width: 40%;
+    position: relative;
+    bottom: -2.4em;
+    left: -7em;
+}
+.amazon-wrapper {
+    position: relative;
+    bottom: 77.6em;
+    padding-left: 65em;
+}
+.amazon-head {
+    font-family: 'Times New Roman', Times, serif;
+color: gray;
+}
+.amazon-para {
+    font-family: 'Times New Roman', Times, serif;
+}
+.amazon-line {
+    width: 90%;
+    position: relative;
+    left: -1em;
+    bottom: -0.25rem;
+}
+.lotus-wrapper {
+    position: relative;
+    bottom: 75em;
+    padding-left: 20em;
+}
+.lotus-head {
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+.lotus-para {
+    font-family: 'Times New Roman', Times, serif;
+}
+.lotus-line {
+    width: 20%;
+    position: relative;
+    left: -24em;
+}
+.cheap {
+    position: relative;
+    bottom: 85em;
+    padding-left: 38em;
+}
+.cheap-head {
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+.cheap-para {
+    font-family: 'Times New Roman', Times, serif;
+}
+.cheap-line {
+    width: 30%;
+    position: relative;
+    bottom: -2.3em;
+    left: -14em;
+}
+.Tracker {
+    position: relative;
+    bottom: 93em;
+    padding-left: 54em;
+}
+.Tracker-head {
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+.Tracker-para {
+    font-family: 'Times New Roman', Times, serif;
+}
+.Tracker-line {
+    width: 45%;
+    position: relative;
+    left:-7em;
+    bottom: -0.5em;
+}
+.wordle {
+    position: relative;
+    bottom: 103em;
+    padding-left: 67em;
+}
+.wordle-head {
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+.wordle-para {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.wordle-line {
+    width: 100%;
+    position: relative;
+    bottom: -0.55em;
+}
